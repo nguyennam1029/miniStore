@@ -64,5 +64,45 @@
       "image": "https://i.ibb.co/G780BDy/product-item7.jpg" 
     }
    
+  ],
+  "latestPost": [
+    {
+      "title":"GET SOME COOL GADGETS IN 2023",
+      "time": "FEB 22, 2023 - GADGETS",
+      "image": "https://i.ibb.co/PY8wjLT/post-item1.jpg" 
+    },
+    {
+      "title":"TECHNOLOGY HACK YOU WON'T GET",
+      "time": "FEB 25, 2023 - TECHNOLOGY",
+      "image": "https://i.ibb.co/M9K7jpp/insta-item4.jpg" 
+    },
+    {
+      "title":"TOP 10 SMALL CAMERA IN THE WORLD",
+      "time": "FEB 22, 2023 - CAMERA",
+      "image": "https://i.ibb.co/nr094dL/insta-item5.jpg" 
+    }
+  ],
+  "insta": [
+    {
+      "image": "https://i.ibb.co/gZh2SW5/insta-item1.jpg" 
+
+    },
+    {
+      "image": "https://i.ibb.co/sj6Wv1r/post-image.jpg" 
+
+    },
+    {
+      "image": "https://i.ibb.co/FVCGFff/insta-item3.jpg" 
+
+    },
+    {
+      "image": "https://i.ibb.co/M9K7jpp/insta-item4.jpg" 
+
+
+    },
+    {
+      "image": "https://i.ibb.co/nr094dL/insta-item5.jpg" 
+
+    }
   ]
 }
